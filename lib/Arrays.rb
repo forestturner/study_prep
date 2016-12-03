@@ -66,7 +66,7 @@ class String
     end
     results.length <= self.length ? self : results
   end
-
+  def rotate_matrix
 
 end
 
