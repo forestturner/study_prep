@@ -199,9 +199,6 @@ end
 
 
 
-# let dist be a
-
-
     # {\displaystyle |V|\times |V|}
 
 # {\displaystyle |V|\times |V|} array of minimum distances initialized to
@@ -316,7 +313,7 @@ def Floyd_Warshall_test()
 end
 
 Floyd_Warshall_test()
-
+# asdf????
   #  for k from 1 to |V| // standard Floyd-Warshall implementation
       # for i from 1 to |V|
         #  for j from 1 to |V|
